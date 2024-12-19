@@ -8,6 +8,6 @@ names: ['crack', 'dent', 'missing-head', 'paint-off', 'scratch']
 roboflow:
   workspace: thesis-project-equzz
   project: aircraft-skin-defects
-  version: 1
+  version: 4
   license: CC BY 4.0
-  url: https://universe.roboflow.com/thesis-project-equzz/aircraft-skin-defects/dataset/1
+  url: https://universe.roboflow.com/thesis-project-equzz/aircraft-skin-defects/dataset/4
